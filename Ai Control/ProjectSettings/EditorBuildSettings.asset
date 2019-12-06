@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 680e8cafc5b60b546a84b712b9584255
+  - enabled: 1
+    path: Assets/scene1.unity
+    guid: 014bc68bdd19ea049b891077468b5044
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scene2.unity
+    guid: 74f21c524ac29b346a5a6f4bea33d389
+  - enabled: 1
+    path: Assets/scene3.unity
+    guid: 1dfab6f136c3bd549949da3fb482e6cd
+  - enabled: 1
+    path: Assets/scene4.unity
+    guid: 7126d348990c15b409686054ac782a1b
+  - enabled: 1
+    path: Assets/scene5.unity
+    guid: 091ca806011bf8548af40984161e34a8
+  - enabled: 1
+    path: Assets/Levle select.unity
+    guid: 5f8dcaa7f7250b1468b9f608d21839b9
+  - enabled: 1
+    path: Assets/credits roll.unity
+    guid: 35854df0c0d2aa64a92bea8e366ce933
+  m_configObjects: {}
